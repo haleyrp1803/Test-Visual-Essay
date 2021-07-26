@@ -20,6 +20,11 @@
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+<param ve-image 
+       label="Byzantine Mosaic" 
+       description="Mosaic on the asp behind the altar" 
+       license="CC BY-SA 3.0" 
+       url="https://upload.wikimedia.org/wikipedia/commons/9/98/Cosmedamiao9b5.jpg">
 
 # Basic usage
 
