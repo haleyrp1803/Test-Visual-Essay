@@ -44,6 +44,11 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
+<param ve-image 
+       label="Church Layout" 
+       description="topdown layout of church and monestary" 
+       license="Public Domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b9/CosmaDamianoPlan.jpg">
 
 
 # References
