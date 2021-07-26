@@ -1,7 +1,5 @@
 # Test-Visual-Essay
-
-Use this link to preview: https://juncture-digital.org/haleyrp1803/Test-Visual-Essay
-juncture url / git username / name of repo
+## Use this link to preview: https://juncture-digital.org/haleyrp1803/Test-Visual-Essay
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
@@ -36,8 +34,10 @@ The basilica of _Santi Cosma e Damiano_ is a titular church in Rome, Italy. The 
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+This section still utilizes the Dutch map for the example painting as I do not have a geojson file prepped for Rome.
+
+_The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
+literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands._
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
