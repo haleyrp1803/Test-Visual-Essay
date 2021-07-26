@@ -1,5 +1,8 @@
 # Test-Visual-Essay
 
+Use this link to preview: https://juncture-digital.org/haleyrp1803/Test-Visual-Essay
+juncture url / git username / name of repo
+
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
