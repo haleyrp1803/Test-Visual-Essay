@@ -40,7 +40,7 @@ The basilica of _Santi Cosma e Damiano_ is a titular church in Rome, Italy. The 
 ## Map
 
 This section still utilizes the Dutch map for the example painting as I do not have a geojson file prepped for Rome. Il Foro Romano is located precisely at 41°53'32"N, 12°29'7"E.
-<param ve-map 41°53'32"N, 12°29'7"E zoom="11">
+<param ve-map>
 
 _The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands._
