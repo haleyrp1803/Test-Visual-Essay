@@ -40,13 +40,11 @@ The basilica of _Santi Cosma e Damiano_ is a titular church in Rome, Italy. The 
 ## Map
 
 This section still utilizes the Dutch map for the example painting as I do not have a geojson file prepped for Rome.
-<param ve-map center="41°53'32"N, 12°29'7"E" zoom="11" prefer-geojson>
-
-coordinates: 41°53'32"N, 12°29'7"E
+<param ve-map center="Q6269259" zoom="11" prefer-geojson>
 
 _The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands._
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="Q6269259" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
