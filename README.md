@@ -6,9 +6,9 @@ juncture url / git username / name of repo
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
+       title="Basilica dei Santi Cosma e Damiano"
        author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/a/af/Roma-basilica_cosma_e_damiano.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -29,13 +29,15 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
+The basilica of Santi Cosma e Damiano is a titular church in Rome, Italy. The lower portion of the building is accessible through the Roman Forum and incorporates original Roman buildings, but the entrance to the upper level is outside the Forum. The circular building located at the entrance of the Forum, which now houses a small archeological exhibit, was built in the early 4th century as a Roman temple. It is thought to have been dedicated to Valerius Romulus, deified son of the emperor Maxentius. The main building was perhaps the library of an imperial forum.
+
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
+       label="Basilica dei Santi Cosma e Damiano" 
+       description="modern street entrance to the basilica" 
+       license="Creative Commons Attribution 2.0 Generic" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
 ## Map
@@ -54,4 +56,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Santi Cosma e Damiano](https://en.wikipedia.org/wiki/Santi_Cosma_e_Damiano)
