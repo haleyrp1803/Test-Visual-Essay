@@ -27,7 +27,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-The basilica of _Santi Cosma e Damiano_ is a titular church in Rome, Italy. The lower portion of the building is accessible through the Roman Forum and incorporates original Roman buildings, but the entrance to the upper level is outside the Forum. The circular building located at the entrance of the Forum, which now houses a small archeological exhibit, was built in the early 4th century as a Roman temple. It is thought to have been dedicated to Valerius Romulus, deified son of the emperor Maxentius. The main building was perhaps the library of an imperial forum.
+The basilica of _Santi Cosma e Damiano_ is a titular church in Rome, Italy. The lower portion of the building is accessible through the Roman Forum and incorporates original Roman buildings, but the entrance to the upper level is outside the Forum. The circular building located at the entrance of the Forum, which now houses a small archeological exhibit, was built in the early 4th century as a Roman temple. It is thought to have been dedicated to Valerius Romulus, deified son of the emperor Maxentius. The main building was perhaps the library of an imperial forum.[^1]
 <param ve-image 
        label="Basilica dei Santi Cosma e Damiano" 
        description="modern street entrance to the basilica" 
@@ -44,9 +44,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+
 
 # References
 
