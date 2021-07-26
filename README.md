@@ -9,7 +9,7 @@ juncture url / git username / name of repo
        title="Basilica dei Santi Cosma e Damiano"
        author="JSTOR Labs team"
        banner="https://upload.wikimedia.org/wikipedia/commons/f/fd/Palatine_view_of_temple_of_romulus.jpg" 
-       layout="horizontal">
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -34,8 +34,7 @@ The basilica of _Santi Cosma e Damiano_ is a titular church in Rome, Italy. The 
        label="Basilica dei Santi Cosma e Damiano" 
        description="modern street entrance to the basilica" 
        license="Creative Commons Attribution 2.0 Generic" 
-       url="https://upload.wikimedia.org/wikipedia/commons/a/af/Roma-basilica_cosma_e_damiano.jpg"
-       layout="vertical">
+       url="https://upload.wikimedia.org/wikipedia/commons/a/af/Roma-basilica_cosma_e_damiano.jpg">
 
 ## Map
 
