@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Jesus Christ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/ce30256595b056f2294258ae296851c3b0462b3f8c8786d022a43903ffb7e715",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:267.4655456542969,94.44828033447266,174.10345458984375,172.96553802490234"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#8b568e3d-c1c5-480d-889c-a8b81e657647"
+  }
+]
