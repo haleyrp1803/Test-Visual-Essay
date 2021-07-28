@@ -40,7 +40,7 @@ The basilica of _Santi Cosma e Damiano_ is a titular church in Rome, Italy. The 
 ## Map
 
 This section still utilizes the Dutch map for the example painting as I do not have a geojson file prepped for Rome. Il Foro Romano is located precisely at 41°53'32"N, 12°29'7"E.
-<param ve-map center="41.53,32,12.29,7" zoom="10">
+<param ve-map center="41.892662805424514, 12.485276349602783" zoom="10">
 
 ## Multiple viewers
 
