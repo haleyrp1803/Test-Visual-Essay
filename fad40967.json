@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Apostles as sheep",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/ce30256595b056f2294258ae296851c3b0462b3f8c8786d022a43903ffb7e715",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:67.18965911865234,299.27587890625,615.6207046508789,102.413818359375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b7323d1d-f4fa-419b-ab5e-bc9bc8003726"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Jesus Christ",
         "purpose": "commenting"
       }
