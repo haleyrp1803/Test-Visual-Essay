@@ -45,7 +45,7 @@ This section still utilizes the Dutch map for the example painting as I do not h
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+Others are selectable using icons displayed in the top right margin of the paragraph.[^2]
 <param ve-image 
        label="Church Layout" 
        description="topdown layout of church and monestary" 
@@ -57,3 +57,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 # References
 
 [^1]: [Wikipedia: Santi Cosma e Damiano](https://en.wikipedia.org/wiki/Santi_Cosma_e_Damiano)
+[^2]: this is a sample footnote
